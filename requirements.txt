@@ -1,0 +1,19 @@
+# Core
+torch>=2.4
+torchvision>=0.19
+transformers>=4.53
+numpy>=1.26
+pillow>=10.0
+
+# Evaluation and analysis
+pycocotools>=2.0.7
+scipy>=1.11
+scikit-learn>=1.3
+pandas>=2.0
+opencv-python>=4.9
+
+# YOLO baselines (optional)
+ultralytics>=8.3
+
+# Training logs (optional)
+tensorboard>=2.15

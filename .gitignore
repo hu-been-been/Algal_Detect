@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Datasets and generated annotations
+algae/
+data/
+
+# Training and evaluation outputs
+runs/
+runs_yolo/
+results/
+logs/
+weights/
+*.pt
+
+.DS_Store
